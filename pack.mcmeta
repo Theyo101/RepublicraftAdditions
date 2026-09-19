@@ -1,0 +1,31 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Functions and Additions ",
+        "type": "text",
+        "color": "dark_green",
+        "underlined": true
+      },
+      {
+        "text": "For Our ",
+        "color": "aqua",
+        "underlined": true
+      },
+      {
+        "text": "Great Republic",
+        "color": "white",
+        "underlined": true
+      },
+      {
+        "text": " Version 0.1.26.38",
+        "color": "gray",
+        "underlined": false,
+        "italic": true
+
+      }
+    ],
+    "min_format": 101,
+    "max_format": 107
+  }
+}
